@@ -8,7 +8,7 @@ I am currently learning to become a Machine Learning / Artificial Intelligence E
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [faborjaylordvhan@gmail.com](mailto:faborjaylordvhan@gmail.com)
-* 🧠  I'm learning Python OOP, Machine Learning and Deep Learning
+* 🧠  I'm currently learning Reinforcement Learning
 * 🤝  I'm open to collaborating on Machine Learning / Artificial Intelliengence Projects
 * ⚡  I have a three dogs, named; Nami, Fang, and Piwi
 
