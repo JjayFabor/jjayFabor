@@ -9,7 +9,7 @@ I am currently learning to become a Software | Machine Learning | Artificial Int
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [faborjaylordvhan@gmail.com](mailto:faborjaylordvhan@gmail.com)
 * 🧠  I'm currently learning Django
-* 🤝  I'm open to collaborating on Machine Learning / Artificial Intelliengence Projects
+* 🤝  I'm open to collaborating on Software Development Projects
 * ⚡  I have a three dogs, named; Nami, Fang, and Piwi
 
 ### Skills
