@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==========================================================================================================================================
 
 # 💫 About Me:
-🧑‍💻I'm currently working on my Django Skill<br>🤝I'm looking to colaborate on Django Project<br>💼I'm looking for part-time, contractual backend/software developer opportunities
+🧑‍💻I'm currently working on my PHP & Laravel Skill<br>🤝I'm looking to colaborate on Laravel Projects<br>💼I'm looking for part-time, contractual backend/software developer opportunities
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JjayFabor&icon=0&color=0)](https://visitcount.itsvg.in)
